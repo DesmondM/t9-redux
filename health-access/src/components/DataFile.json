@@ -1,0 +1,456 @@
+[
+    {
+        "id": 1,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R565"
+    },
+    {
+        "id": 2,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R791"
+    },
+    {
+        "id": 3,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R1 017"
+    },
+    {
+        "id": 4,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R1 243"
+    },
+    {
+        "id": 5,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R1 409"
+    },
+    {
+        "id": 6,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R947"
+    },
+    {
+        "id": 7,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R1 173"
+    },
+    {
+        "id": 8,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R1 399"
+    },
+    {
+        "id": 9,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R1 625"
+    },
+    {
+        "id": 10,
+        "plan": "Value Plus Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R1 851"
+    },
+
+    {
+        "id": 11,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R855"
+    },
+    {
+        "id": 12,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R1 112"
+    },
+    {
+        "id": 13,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R1 369"
+    },
+    {
+        "id": 14,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R1 626"
+    },
+    {
+        "id": 15,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R1 883"
+    },
+    {
+        "id": 16,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R1 539"
+    },
+    {
+        "id": 17,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R1 796"
+    },
+    {
+        "id": 18,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R2 053"
+    },
+    {
+        "id": 19,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R2 310"
+    },
+    {
+        "id": 20,
+        "plan": "Platinum Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R2 567"
+    },
+
+    {
+        "id": 21,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R935"
+    },
+    {
+        "id": 22,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R1 263"
+    },
+    {
+        "id": 23,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R1 591"
+    },
+    {
+        "id": 24,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R1 919"
+    },
+    {
+        "id": 25,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R2 247"
+    },
+    {
+        "id": 26,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R1 598"
+    },
+    {
+        "id": 27,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R1 926"
+    },
+    {
+        "id": 28,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R2 254"
+    },
+    {
+        "id": 29,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R2 582"
+    },
+    {
+        "id": 30,
+        "plan": "Executive Plan Comprehensive",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R2 910"
+    },
+
+    {
+        "id": 31,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R530"
+    },
+    {
+        "id": 32,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R689"
+    },
+    {
+        "id": 33,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R848"
+    },
+    {
+        "id": 34,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R1 007"
+    },
+    {
+        "id": 35,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R1 166"
+    },
+    {
+        "id": 36,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R954"
+    },
+    {
+        "id": 37,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R1 113"
+    },
+    {
+        "id": 38,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R1 272"
+    },
+    {
+        "id": 39,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R1 431"
+    },
+    {
+        "id": 40,
+        "plan": "Platinum Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R1 590"
+    },
+
+    {
+        "id": 41,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R610"
+    },
+    {
+        "id": 42,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R793"
+    },
+    {
+        "id": 43,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R976"
+    },
+    {
+        "id": 44,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R1 159"
+    },
+    {
+        "id": 45,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R1 342"
+    },
+    {
+        "id": 46,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R1 037"
+    },
+    {
+        "id": 47,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R1 220"
+    },
+    {
+        "id": 48,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R1 403"
+    },
+    {
+        "id": 49,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R1 586"
+    },
+    {
+        "id": 50,
+        "plan": "Executive Plan Hospital",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R1 769"
+    },
+
+    {
+        "id": 51,
+        "plan": "Day to Day",
+        "membershipCover": "Single Member",
+        "cover": "Member Only",
+        "premium": "R325"
+    },
+    {
+        "id": 52,
+        "plan": "Day to Day",
+        "membershipCover": "Single Member",
+        "cover": "Member + 1 Child",
+        "premium": "R480"
+    },
+    {
+        "id": 53,
+        "plan": "Day to Day",
+        "membershipCover": "Single Member",
+        "cover": "Member + 2 Children",
+        "premium": "R635"
+    },
+    {
+        "id": 54,
+        "plan": "Day to Day ",
+        "membershipCover": "Single Member",
+        "cover": "Member + 3 Children",
+        "premium": "R790"
+    },
+    {
+        "id": 55,
+        "plan": "Day to Day ",
+        "membershipCover": "Single Member",
+        "cover": "Member + 4 Children",
+        "premium": "R945"
+    },
+    {
+        "id": 56,
+        "plan": "Day to Day ",
+        "membershipCover": "Couple",
+        "cover": "Couple",
+        "premium": "R553"
+    },
+    {
+        "id": 57,
+        "plan": "Day to Day ",
+        "membershipCover": "Couple",
+        "cover": "Couple + 1 Child",
+        "premium": "R708"
+    },
+    {
+        "id": 58,
+        "plan": "Day to Day ",
+        "membershipCover": "Couple",
+        "cover": "Couple + 2 Children",
+        "premium": "R863"
+    },
+    {
+        "id": 59,
+        "plan": "Day to Day ",
+        "membershipCover": "Couple",
+        "cover": "Couple + 3 Children",
+        "premium": "R1 018"
+    },
+    {
+        "id": 60,
+        "plan": "Day to Day ",
+        "membershipCover": "Couple",
+        "cover": "Couple + 4 Children",
+        "premium": "R1 173"
+    },
+
+    {
+        "id": 61,
+        "plan": "Day to Day | Senior",
+        "membershipCover": "Single",
+        "cover": "Member Only",
+        "premium": "R380"
+    },
+    {
+        "id": 62,
+        "plan": "Day to Day | Senior",
+        "membershipCover": "Couple",
+        "cover": "Member Only",
+        "premium": "R760"
+    },
+    {
+        "id": 63,
+        "plan": "Value Plus Comprehensive | Senior",
+        "membershipCover": "Single",
+        "cover": "Member Only",
+        "premium": "R775"
+    },
+    {
+        "id": 64,
+        "plan": "Value Plus Comprehensive | Senior",
+        "membershipCover": "Couple",
+        "cover": "Member Only",
+        "premium": "R1 550"
+    }
+]
